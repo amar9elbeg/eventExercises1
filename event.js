@@ -4,9 +4,18 @@ let count = 0;
 
 // Exercises 2 add event function to toggle header contact to show header links
 
+
+
 // Exercises 3 write function to change html5 card's text colors when click on edit button
 
+
+
 // Exercises 4 write function to change html3 card's text colors when click on edit button
+
+function changeColor(){
+    const color = document.querySelector(".album").querySelector(".row");
+    const
+}
 
 // Exercises 5 write function to change js card's text colors when click on edit button
 
